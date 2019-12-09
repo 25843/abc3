@@ -3,7 +3,7 @@
     {
       "AddressID": "0D0A7AFF-EFD5-4C00-83FB-0300A546F37F",
       "AddressLine1": "102",
-      "AddressLine": "Test House",
+      "AddressLine2": "Test House",
       "AddressLine3": "Test Road",
       "AddressLine4": "",
       "Town": "Testley",
@@ -15,7 +15,7 @@
     {
       "AddressID": "8B6990EA-778E-4167-81E4-03CC140C982E",
       "AddressLine1": "122",
-      "AddressLine": "Test Centre",
+      "AddressLine2": "Test Centre",
       "AddressLine3": "Test Street",
       "AddressLine4": "",
       "Town": "Testley",
@@ -27,7 +27,7 @@
     {
       "AddressID": "852CF2B2-2150-4BEA-92A8-057056319D41",
       "AddressLine1": "152",
-      "AddressLine": "Test Court",
+      "AddressLine2": "Test Court",
       "AddressLine3": "Test Close",
       "AddressLine4": "",
       "Town": "Testley",

@@ -9,7 +9,7 @@
       "Town": "Testley",
       "County": "Testshire",
       "PostCode": "T2 4RF",
-      "Latitude": 101,
+      "Latitude": 50,
       "Longitude": 38
     },
     {
@@ -21,7 +21,7 @@
       "Town": "Testley",
       "County": "Testshire",
       "PostCode": "T4 4RF",
-      "Latitude": 101,
+      "Latitude": 60,
       "Longitude": 38
     },
     {
@@ -33,7 +33,7 @@
       "Town": "Testley",
       "County": "Testshire",
       "PostCode": "T6 4RF",
-      "Latitude": 101,
+      "Latitude": 20,
       "Longitude": 38
     }
   ]
